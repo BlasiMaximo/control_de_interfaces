@@ -6,7 +6,7 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 ## Nombre del Robot:B-567
 ## Capitán: Blasi Maximo
 ## Subcapitán: Barrientos Dylan
-## Integrantes:Baruque Mercedes,Borecki Florencia,Borecki
+## Integrantes:Baruque Mercedes,Borecki Florencia,Borecki Nicolas
 -
 -
 -
