@@ -64,7 +64,7 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 -
 
 ### APORTES INDIVIDUALES
-Integrante: Barrientes Dylan
+#### Integrante: Barrientes Dylan
 
 Tarea realizada:Ideas para agregar a la estructura
 
@@ -73,22 +73,22 @@ Tarea realizada:Ideas para agregar a la estructura
   Investigue sobre los distintos tipos de pesos permitidos, estabilidad, estrategias y demas
 
 
-Integrante: Baruque Mercedes
+#### Integrante: Baruque Mercedes
 
 Tarea realizada:Investigacion puente H
 
-Integrante: Blasi Maximo
+#### Integrante: Blasi Maximo
 
 Tarea realizada:Investigacion gpio, Configuracion Rasberry
 
-Integrante: Borecki Florencia
+#### Integrante: Borecki Florencia
 
 Tarea realizada:Armado de chasis y circuito electronico
 
 Estuve armando el chasis para ver el tamaño promedio
 Despues estuve trabajando en el circuito para conectar todos sus componentes y hacer mover el motor
 
-Integrante: Borecki Nicolas
+#### Integrante: Borecki Nicolas
 
 Tarea realizada:Modelaje 3d del robotw
 
