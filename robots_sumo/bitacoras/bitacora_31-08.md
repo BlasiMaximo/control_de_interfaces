@@ -70,7 +70,7 @@ Tarea realizada:Investigacion puente H
 
 Integrante: Blasi Maximo
 
-Tarea realizada:Investigacion gpio
+Tarea realizada:Investigacion gpio, Configuracion Rasberry
 
 Integrante: Borecki Florencia
 
