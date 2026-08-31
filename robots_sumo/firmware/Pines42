@@ -1,0 +1,12 @@
+#Pines
+include <pico/stdblid.h>
+{int main() {
+    gpio_init(9);
+    gpio_init(22);
+    //1.Inicia ambos pines
+    gpio_set_dir(9, GPIO_OUT);
+    gpio_set_dir(22, GPIO_IN);
+    //Configurar salidas o entradas
+ }
+}
+
