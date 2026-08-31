@@ -20,27 +20,8 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 - Baruque Mercedes
 - Blasi Maximo
 - Borecki Florencia
-
-Estuve armando el chasis para ver el tamaño promedio
-Despues estuve trabajando en el circuito para conectar todos sus componentes y hacer mover el motor
-
-
 - Borecki Nicolas
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9871b6f0-7b3d-452f-bfa8-5997e07fb632" />
-
-Hice el modelaje 3d de el primer diseño del robot.
-
-Cree el diseño apto para imprimir las partes adicionales en 3d
-
-
-
 - Barrientos, Dylan:
-
-  Propuse ideas sobre y detalles adicionales para el modelaje de la estructura en conjunto con Borecki Nicolas
-
-  Investigue sobre los distintos tipos de pesos permitidos, estabilidad, estrategias y demas
-
-
 
 ### Objetivos de la jornada:
 - Investigación sobre puente H y programación
@@ -87,6 +68,11 @@ Integrante: Barrientes Dylan
 
 Tarea realizada:Ideas para agregar a la estructura
 
+ Propuse ideas sobre y detalles adicionales para el modelaje de la estructura en conjunto con Borecki Nicolas
+
+  Investigue sobre los distintos tipos de pesos permitidos, estabilidad, estrategias y demas
+
+
 Integrante: Baruque Mercedes
 
 Tarea realizada:Investigacion puente H
@@ -99,6 +85,15 @@ Integrante: Borecki Florencia
 
 Tarea realizada:Armado de chasis y circuito electronico
 
+Estuve armando el chasis para ver el tamaño promedio
+Despues estuve trabajando en el circuito para conectar todos sus componentes y hacer mover el motor
+
 Integrante: Borecki Nicolas
 
 Tarea realizada:Modelaje 3d del robotw
+
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9871b6f0-7b3d-452f-bfa8-5997e07fb632" />
+
+Hice el modelaje 3d de el primer diseño del robot.
+
+Cree el diseño apto para imprimir las partes adicionales en 3d
