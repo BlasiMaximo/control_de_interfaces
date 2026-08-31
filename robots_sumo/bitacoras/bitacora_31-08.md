@@ -90,7 +90,7 @@ Despues estuve trabajando en el circuito para conectar todos sus componentes y h
 
 #### Integrante: Borecki Nicolas
 
-Tarea realizada:Modelaje 3d del robotw
+Tarea realizada:Modelaje 3d del robot.
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9871b6f0-7b3d-452f-bfa8-5997e07fb632" />
 
