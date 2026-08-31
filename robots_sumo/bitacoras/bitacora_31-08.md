@@ -8,6 +8,8 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 ## Subcapitán: Barrientos Dylan
 ## Integrantes:
 - Baruque Mercedes
+- Barrientos Dylan
+- Blasi Maximo
 - Borecki Florencia
 - Borecki Nicolas
 
@@ -60,7 +62,7 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 ### APORTES INDIVIDUALES
 Integrante: Barrientes Dylan
 
-Tarea realizada:
+Tarea realizada:Ideas para agregar a la estructura
 
 Integrante: Baruque Mercedes
 
@@ -68,11 +70,11 @@ Tarea realizada:Investigacion puente H
 
 Integrante: Blasi Maximo
 
-Tarea realizada:
+Tarea realizada:Investigacion gpio
 
 Integrante: Borecki Florencia
 
-Tarea realizada:Armado estrucutral del robot
+Tarea realizada:Armado de chasis y circuito electronico
 
 Integrante: Borecki Nicolas
 
