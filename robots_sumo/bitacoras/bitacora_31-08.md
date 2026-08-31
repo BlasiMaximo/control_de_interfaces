@@ -77,6 +77,3 @@ Tarea realizada:Armado estrucutral del robot
 Integrante: Borecki Nicolas
 
 Tarea realizada:Modelaje 3d del robot
-Integrante: ____________________________
-
-Tarea realizada:
