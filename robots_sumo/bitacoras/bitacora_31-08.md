@@ -20,10 +20,16 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 - Baruque Mercedes
 - Blasi Maximo
 - Borecki Florencia
+
+Estuve armando el chasis para ver el tamaño promedio
+Despues estuve trabajando en el circuito para conectar todos sus componentes y hacer mover el motor
+
+
 - Borecki Nicolas
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9871b6f0-7b3d-452f-bfa8-5997e07fb632" />
 
 Hice el modelaje 3d de el primer diseño del robot.
+
 Cree el diseño apto para imprimir las partes adicionales en 3d
 
 
@@ -35,12 +41,12 @@ Cree el diseño apto para imprimir las partes adicionales en 3d
 - Ensamblado de kit
 
 ### Actividades realizadas:
--
--
--
+- Investacion de puente H
+- Diseño en 3d del robot
+- 
 
 ### Problemas encontrados:
--
+- 
 -
 -
 
@@ -55,11 +61,12 @@ Cree el diseño apto para imprimir las partes adicionales en 3d
 -
 
 ### Resultados obtenidos:
--
+- 
 -
 -
 
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e3af9789-b73d-4e85-8b4a-b83f1d6aa8d2" />
 
 
 ### Tareas pendientes:
