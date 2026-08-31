@@ -21,11 +21,14 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 - Blasi Maximo
 - Borecki Florencia
 - Borecki Nicolas
+<img width="703" height="449" alt="image" src="https://github.com/user-attachments/assets/9871b6f0-7b3d-452f-bfa8-5997e07fb632" />
+Hice el modelaje 3d de el primer diseño del robot, con las partes adicionales, que vamos a imprimir en 3d
 
 ### Objetivos de la jornada:
-- Investigar
--
--
+- Investigación sobre puente H y programación
+- Modelaje de la estructura y adicionales
+- Reconocimiento de materiales
+- Ensamblado de kit
 
 ### Actividades realizadas:
 -
@@ -54,6 +57,7 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
 
+
 ### Tareas pendientes:
 -
 -
@@ -78,4 +82,4 @@ Tarea realizada:Armado de chasis y circuito electronico
 
 Integrante: Borecki Nicolas
 
-Tarea realizada:Modelaje 3d del robot
+Tarea realizada:Modelaje 3d del robotw
