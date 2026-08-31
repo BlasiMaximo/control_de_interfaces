@@ -33,6 +33,12 @@ Hice el modelaje 3d de el primer diseño del robot.
 Cree el diseño apto para imprimir las partes adicionales en 3d
 
 
+- Barrientos, Dylan:
+  Propuse ideas sobre y detalles adicionales para el modelaje de la estructura en conjunto con Borecki Nicolas
+
+  Investigue sobre los distintos tipos de pesos permitidos, estabilidad, estrategias y demas
+
+
 
 ### Objetivos de la jornada:
 - Investigación sobre puente H y programación
