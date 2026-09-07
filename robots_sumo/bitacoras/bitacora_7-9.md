@@ -29,17 +29,17 @@
 - Programación de Raspberry. 
 
 ### Actividades realizadas:
-- 
-- 
+- Seguimos investigando sobre la Raspberry pi pico w
+- Programación del código del microcontrolador 
 
 ### Problemas encontrados:
-- 
--
+- La raspberry soporta 5v y nosotros tenemos una fuente de 6v
+- No podiamos poner una resistencia ya que se iba a sobrecalentar
 -
 
 ### Soluciones implementadas o propuestas:
--
--
+- Estamos tratando de implementar una resistencia para que bajar la corriente a 5v
+- Entonces propusimos poner un diodo 
 -
 
 ### Pruebas realizadas:
@@ -57,7 +57,7 @@
 
 
 ### Tareas pendientes:
--
+- Probar si funciona el diodo y logra bajar la corriente
 -
 -
 
@@ -79,7 +79,11 @@ Tarea realizada: Programacioón de Raspberry.
 Tarea realizada: Corrección Circuito.
 Investigación sobre alimenación Raspberry.
 
+
+
 #### Integrante: Borecki Nicolas.
 
 Tarea realizada: Corrección Circuito.
 Cómo mezclar el sistema mecánico con el electrónico.
+Estuve analizando la opción de utilizar un resorte para poder bajar dos barras verticales que usariamos en el robot. 
+Estuve investigando sobre el puente h y realizando conclusiones e investigando como bajar la corriente a 5v y lograr que el puente h no se apague por falta de corriente ni se dañe por sobrecarga de corriente.
