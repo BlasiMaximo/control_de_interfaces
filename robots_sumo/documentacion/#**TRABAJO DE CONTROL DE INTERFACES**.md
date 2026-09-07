@@ -18,6 +18,3 @@ SALIDAS: Un cable del motor se conecta a OUT1 y OUT4 , y el otro a OUT2 y OUT3.
 
 ###GPIO
 *InPut/OutPut:* pin configurable del microcontrolador que funciona por software como entrada para leer sensores o salida para controlar dispositivos. 
-
-
-https://www.tinkercad.com/things/6F4pCpXxUpu-copy-of-5b-67/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fthings%2F6F4pCpXxUpu-copy-of-5b-67
