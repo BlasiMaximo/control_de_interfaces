@@ -18,3 +18,7 @@ SALIDAS: Un cable del motor se conecta a OUT1 y OUT4 , y el otro a OUT2 y OUT3.
 
 ###GPIO
 *InPut/OutPut:* pin configurable del microcontrolador que funciona por software como entrada para leer sensores o salida para controlar dispositivos. 
+
+# Alimentación 
+La raspberry pi pico w puede soportar hasta 5 Volts y nuestra fuente provee 6 Volts por ende sabemos que se debe colocar una resistencia. 
+Depués de investigar y analizar bien la situación descubrimos que era mejor usar un diodo o un dicipador de energía, ya que la resistencia se podría sobrecalentar de mas. 
