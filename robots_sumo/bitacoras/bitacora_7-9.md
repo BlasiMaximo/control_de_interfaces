@@ -63,7 +63,7 @@
 
 ### Tareas pendientes:
 - Probar si funciona el diodo y logra bajar la corriente
--
+- Separar en etapas el avance y retroceso de los motores.
 -
 
 ### APORTES INDIVIDUALES
@@ -75,10 +75,12 @@ Tarea realizada: Corrección final del chasis.
 #### Integrante: Baruque Mercedes.
 
 Tarea realizada: Programación de Raspberry.
-
+- Se logró la programación del avance y retroceso de las ruedas mediante el intervalo de los motores.
+  
 #### Integrante: Blasi Máximo.
 
 Tarea realizada: Programacioón de Raspberry.
+- Se logró la programación del avance y retroceso de las ruedas mediante el intervalo de los motores.
 
 #### Integrante: Borecki Florencia.
 
