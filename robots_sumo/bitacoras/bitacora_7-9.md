@@ -2,31 +2,31 @@
 
 # BITÁCORA DE PROYECTO – ROBOT SUMO
 
-## Equipo: Numero 2 (4to 2da AVC Com A)
-## Nombre del Robot:B-567
-## Capitán: Blasi Maximo
-## Subcapitán: Barrientos Dylan
+## Equipo: Número 2 (4° 2° AVC - Com. A)
+## Nombre del Robot: B-567
+## Capitán: Blasi Maximo.
+## Subcapitán: Barrientos Dylan.
 ## Integrantes:
-- Baruque Mercedes
-- Barrientos Dylan
-- Blasi Maximo
-- Borecki Florencia
-- Borecki Nicolas
+- Baruque, Mercedes.
+- Barrientos, Dylan.
+- Blasi, Máximo.
+- Borecki, Florencia.
+- Borecki, Nicolás.
 
 ## REGISTRO DE ACTIVIDADES
 ### Fecha:7/9/26
 ### Integrantes presentes:
-- Barrientos Dylan
-- Baruque Mercedes
-- Blasi Maximo
-- Borecki Florencia
-- Borecki Nicolas
+- Barrientos. Dylan
+- Baruque, Mercedes
+- Blasi, Máximo
+- Borecki, Florencia
+- Borecki, Nicolás
 
 ### Objetivos de la jornada:
-- Investigación sobre alimentacion de la Raspberry
-- Correccion de circuito
-- Continuacion estructura chasis
-- Programacion de Raspberry 
+- Investigación sobre alimentación de la Raspberry.
+- Corrección del circuito.
+- Continuación de la estructura del chasis.
+- Programación de Raspberry. 
 
 ### Actividades realizadas:
 - 
@@ -62,24 +62,24 @@
 -
 
 ### APORTES INDIVIDUALES
-#### Integrante: Barrientes Dylan
+#### Integrante: Barrientos Dylan.
 
-Tarea realizada: Correcion Final el chasis
+Tarea realizada: Corrección final del chasis.
 
-#### Integrante: Baruque Mercedes
+#### Integrante: Baruque Mercedes.
 
-Tarea realizada: Programacion de Raspberry
+Tarea realizada: Programación de Raspberry.
 
-#### Integrante: Blasi Maximo
+#### Integrante: Blasi Máximo.
 
-Tarea realizada: Programacion de Raspberry
+Tarea realizada: Programacioón de Raspberry.
 
-#### Integrante: Borecki Florencia
+#### Integrante: Borecki Florencia.
 
-Tarea realizada: Correcion Circuito
-Investigacion sobre alimenacion Raspberry
+Tarea realizada: Corrección Circuito.
+Investigación sobre alimenación Raspberry.
 
-#### Integrante: Borecki Nicolas
+#### Integrante: Borecki Nicolas.
 
-Tarea realizada: Correcion Circuito
-Como mezclar sistema mecanico con electronico
+Tarea realizada: Corrección Circuito.
+Cómo mezclar el sistema mecánico con el electrónico.
