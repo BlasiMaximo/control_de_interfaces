@@ -53,7 +53,8 @@
 -
 
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
-![Uploading image.png…]()
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/818cbae9-5e62-4b2b-8a6b-1363bf761f5b" />
+
 
 
 
