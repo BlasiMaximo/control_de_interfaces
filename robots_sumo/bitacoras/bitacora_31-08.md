@@ -21,7 +21,6 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 - Blasi Maximo
 - Borecki Florencia
 - Borecki Nicolas
-- Barrientos, Dylan:
 
 ### Objetivos de la jornada:
 - Investigación sobre puente H y programación
