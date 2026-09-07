@@ -53,6 +53,8 @@
 -
 
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
+![Uploading image.png…]()
+
 
 
 
@@ -65,6 +67,7 @@
 #### Integrante: Barrientos Dylan.
 
 Tarea realizada: Corrección final del chasis.
+- Terminé el diseño definitivo del chasis corregido. También propuse ideas y busqué información para agregar dos barras verticales planas, con el objetivo de usarlas para el empuje de los demás robots.
 
 #### Integrante: Baruque Mercedes.
 
